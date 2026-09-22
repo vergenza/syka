@@ -1,0 +1,16 @@
+<svg width="280" height="500" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="screen2" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#1E88E5;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#42A5F5;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="280" height="500" fill="url(#screen2)"/>
+    <rect x="10" y="10" width="260" height="480" fill="none" stroke="white" stroke-width="2" rx="15"/>
+    <rect x="20" y="40" width="240" height="100" fill="rgba(255,255,255,0.1)"/>
+    <circle cx="70" cy="90" r="15" fill="#FF6B6B"/>
+    <text x="100" y="100" font-size="16" fill="white">Screen 2</text>
+    <rect x="30" y="180" width="220" height="60" fill="rgba(255,255,255,0.15)" rx="8"/>
+    <rect x="30" y="270" width="220" height="60" fill="rgba(255,255,255,0.15)" rx="8"/>
+    <rect x="30" y="360" width="220" height="60" fill="rgba(255,255,255,0.15)" rx="8"/>
+</svg>

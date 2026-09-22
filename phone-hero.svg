@@ -1,0 +1,15 @@
+<svg width="400" height="800" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#0052CC;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#001F5C;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="400" height="800" fill="url(#grad1)"/>
+    <rect x="15" y="20" width="370" height="760" fill="none" stroke="#0078FF" stroke-width="4" rx="30"/>
+    <circle cx="200" cy="100" r="40" fill="#FFB800"/>
+    <rect x="40" y="350" width="320" height="200" fill="rgba(255,255,255,0.1)" rx="15"/>
+    <text x="200" y="480" font-size="32" fill="white" text-anchor="middle" font-weight="bold">Music App</text>
+    <rect x="50" y="600" width="300" height="50" fill="#0078FF" rx="10"/>
+    <text x="200" y="635" font-size="16" fill="white" text-anchor="middle">Play Music</text>
+</svg>
